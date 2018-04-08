@@ -1,3 +1,8 @@
+// Fix the Scope Lab
+// Laura Nadolski
+// 4/8/18
+
+
 var animal = 'dog';
 
 function myAnimal() {
